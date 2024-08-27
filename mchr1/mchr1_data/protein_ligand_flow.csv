@@ -1,0 +1,7 @@
+complex_name,protein_path,ligand_description,protein_sequence
+alphaflow_0,mchr1_data/mchr1_alphaflow/model_0.pdb,CC(C)N1CCC2=CC3=C(N2CC1)C=CC(=C3)N4C=CC(=CC4=O)OCC5=NC=C(C=C5)Cl,
+alphaflow_1,mchr1_data/mchr1_alphaflow/model_1.pdb,CC(C)N1CCC2=CC3=C(N2CC1)C=CC(=C3)N4C=CC(=CC4=O)OCC5=NC=C(C=C5)Cl,
+alphaflow_2,mchr1_data/mchr1_alphaflow/model_2.pdb,CC(C)N1CCC2=CC3=C(N2CC1)C=CC(=C3)N4C=CC(=CC4=O)OCC5=NC=C(C=C5)Cl,
+esmflow_0,mchr1_data/mchr1_esmflow/model_0.pdb,CC(C)N1CCC2=CC3=C(N2CC1)C=CC(=C3)N4C=CC(=CC4=O)OCC5=NC=C(C=C5)Cl,
+esmflow_1,mchr1_data/mchr1_esmflow/model_1.pdb,CC(C)N1CCC2=CC3=C(N2CC1)C=CC(=C3)N4C=CC(=CC4=O)OCC5=NC=C(C=C5)Cl,
+esmflow_2,mchr1_data/mchr1_esmflow/model_2.pdb,CC(C)N1CCC2=CC3=C(N2CC1)C=CC(=C3)N4C=CC(=CC4=O)OCC5=NC=C(C=C5)Cl,

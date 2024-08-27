@@ -1,0 +1,7 @@
+complex_name,protein_path,ligand_description,protein_sequence
+i_tasser_4n6h,mchr1_data/all_target_structures/4n6h_model1.pdb,CC(C)N1CCC2=CC3=C(N2CC1)C=CC(=C3)N4C=CC(=CC4=O)OCC5=NC=C(C=C5)Cl,
+i_tasser_6vi4,mchr1_data/all_target_structures/6vi4_model1.pdb,CC(C)N1CCC2=CC3=C(N2CC1)C=CC(=C3)N4C=CC(=CC4=O)OCC5=NC=C(C=C5)Cl,
+i_tasser_7ul4,mchr1_data/all_target_structures/7ul4_model1.pdb,CC(C)N1CCC2=CC3=C(N2CC1)C=CC(=C3)N4C=CC(=CC4=O)OCC5=NC=C(C=C5)Cl,
+i_tasser_7ul5,mchr1_data/all_target_structures/7ul5_model1.pdb,CC(C)N1CCC2=CC3=C(N2CC1)C=CC(=C3)N4C=CC(=CC4=O)OCC5=NC=C(C=C5)Cl,
+af2_gpcr,mchr1_data/all_target_structures/mchr1_17_0.80.pdb,CC(C)N1CCC2=CC3=C(N2CC1)C=CC(=C3)N4C=CC(=CC4=O)OCC5=NC=C(C=C5)Cl,
+rosettafold,mchr1_data/all_target_structures/Q99705_model.inactive.crderr.pdb,CC(C)N1CCC2=CC3=C(N2CC1)C=CC(=C3)N4C=CC(=CC4=O)OCC5=NC=C(C=C5)Cl,
