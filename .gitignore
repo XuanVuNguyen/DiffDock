@@ -166,4 +166,11 @@ temp6.py
 temp7.py
 esm
 
+
+# Mine files
 gnina
+*.pdb
+mchr1/
+results*/
+kalasanty_results/
+template_modeling/

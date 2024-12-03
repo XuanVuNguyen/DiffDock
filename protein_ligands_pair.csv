@@ -1,0 +1,11 @@
+ligand_pose_directory,protein_path
+results/alphaflow_0,mchr1/mchr1_data/mchr1_alphaflow/model_0.pdb
+results/alphaflow_1,mchr1/mchr1_data/mchr1_alphaflow/model_1.pdb
+results/alphaflow_2,mchr1/mchr1_data/mchr1_alphaflow/model_2.pdb
+results/esmflow_0,mchr1/mchr1_data/mchr1_esmflow/model_0.pdb
+results/esmflow_1,mchr1/mchr1_data/mchr1_esmflow/model_1.pdb
+results/esmflow_2,mchr1/mchr1_data/mchr1_esmflow/model_2.pdb
+results/alphafold_gpcr,mchr1/mchr1_data/all_target_structures/mchr1_17_0.80.pdb
+results/alphafold_gpcr_active_2,mchr1/mchr1_data/mchr1_active/mchr1_active_2_0.79.pdb
+results/Q99705_model.inactive.crderr.pdb,mchr1/mchr1_data/all_target_structures/Q99705_model.inactive.crderr.pdb
+results/Q99705_model.active.crderr.pdb,mchr1/all_human_GPCR_unknown/active/Q99705_model.active.crderr.pdb
